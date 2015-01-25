@@ -1,0 +1,4 @@
+c:\users\win\documents\visual studio 2013\Projects\employeeManager\employeeManager.Domain\bin\Debug\employeeManager.Domain.dll
+c:\users\win\documents\visual studio 2013\Projects\employeeManager\employeeManager.Domain\bin\Debug\employeeManager.Domain.pdb
+c:\users\win\documents\visual studio 2013\Projects\employeeManager\employeeManager.Domain\obj\Debug\employeeManager.Domain.dll
+c:\users\win\documents\visual studio 2013\Projects\employeeManager\employeeManager.Domain\obj\Debug\employeeManager.Domain.pdb

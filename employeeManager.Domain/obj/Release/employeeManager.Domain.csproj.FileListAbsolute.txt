@@ -1,0 +1,8 @@
+c:\users\win\documents\visual studio 2013\Projects\employeeManager\employeeManager.Domain\bin\Release\employeeManager.Domain.dll
+c:\users\win\documents\visual studio 2013\Projects\employeeManager\employeeManager.Domain\bin\Release\employeeManager.Domain.pdb
+c:\users\win\documents\visual studio 2013\Projects\employeeManager\employeeManager.Domain\obj\Release\employeeManager.Domain.dll
+c:\users\win\documents\visual studio 2013\Projects\employeeManager\employeeManager.Domain\obj\Release\employeeManager.Domain.pdb
+C:\Users\WIN\Documents\Visual Studio 2013\Projects\employeeManager\employeeManager.Domain\bin\Release\CSharper.dll
+C:\Users\WIN\Documents\Visual Studio 2013\Projects\employeeManager\employeeManager.Domain\bin\Release\CSharper.pdb
+C:\Users\WIN\Documents\Visual Studio 2013\Projects\employeeManager\employeeManager.Domain\bin\Release\CSharper.xml
+C:\Users\WIN\Documents\Visual Studio 2013\Projects\employeeManager\employeeManager.Domain\obj\Release\employeeManager.Domain.csprojResolveAssemblyReference.cache
